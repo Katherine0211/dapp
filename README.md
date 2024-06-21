@@ -1,21 +1,13 @@
-# Vue 3 + Vite
+# DAPP
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+仿站电商项目后台管理需要通过vue实现的,后台管理中需要实现基本的对前台用户的管理及首页轮播图的管
+理功能
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
 
 ### 开始使用
 
 ```
-
-切换环境
-
-nvm install 18.0.0
-
-nvm use 18.0.0
-
 安装依赖
 
 npm install
@@ -23,10 +15,6 @@ npm install
 启动项目
 
 npm run dev
-
-打包项目
-
-npm run build
 
 ```
 
